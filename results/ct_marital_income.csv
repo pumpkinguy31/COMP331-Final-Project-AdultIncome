@@ -1,0 +1,8 @@
+marital_status,<=50K,>50K
+Divorced,0.896,0.104
+Married-AF-spouse,0.565,0.435
+Married-civ-spouse,0.553,0.447
+Married-spouse-absent,0.919,0.081
+Never-married,0.954,0.046
+Separated,0.936,0.064
+Widowed,0.914,0.086
